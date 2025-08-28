@@ -1,0 +1,12 @@
+# requirements.txt
+
+# APK feature extraction
+ androguard==3.4.0      # Used to parse APK metadata
+
+
+
+# YAML config loading
+ PyYAML==6.0.2         # To load known_banks.yaml
+
+# YARA rules engine
+ yara-python==4.5.0    # For scanning with strings.yar
