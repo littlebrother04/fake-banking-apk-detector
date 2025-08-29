@@ -80,7 +80,7 @@ Reasons:
 ## 📖 References & Credits
 - Android Developer Docs (APK structure, permissions)
 - Python Official Docs
-- Apkutils3 & Androguard GitHub Repos
+- Androguard GitHub Repos
 - YARA Project Documentation
 - Community resources: StackOverflow, GitHub Discussions
 
@@ -95,4 +95,5 @@ Reasons:
 
 👨‍💻 Developed for **CIIS Cybersecurity Hackathon 2025**
 Problem Statement **Detecting Fake Banking APKs**
+
 
