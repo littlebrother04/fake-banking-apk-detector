@@ -93,7 +93,7 @@ Reasons:
 
 ---
 
-👨‍💻 Developed for **CIIS Cybersecurity Hackathon 2025**
 Problem Statement **Detecting Fake Banking APKs**
+
 
 
