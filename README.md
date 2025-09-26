@@ -1,7 +1,7 @@
 # Fake Banking APK Detector
 
 demo_video
-
+https://github.com/user-attachments/assets/bde1fca8-819e-4ce1-b22b-9ecf41bcc2b6
 
 
 A lightweight tool to detect potentially **fake banking APKs** using rule-based analysis on APK metadata,
@@ -94,6 +94,7 @@ Reasons:
 ---
 
 Problem Statement **Detecting Fake Banking APKs**
+
 
 
 
