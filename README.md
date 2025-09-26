@@ -2,7 +2,7 @@
 
 demo_video
 
-https://github.com/user-attachments/assets/4c2e04e4-0710-467c-a7a0-facd39fa0918
+
 
 A lightweight tool to detect potentially **fake banking APKs** using rule-based analysis on APK metadata,
 permissions, certificates, and YARA string scanning.
@@ -94,6 +94,7 @@ Reasons:
 ---
 
 Problem Statement **Detecting Fake Banking APKs**
+
 
 
 
